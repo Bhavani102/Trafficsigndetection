@@ -1,0 +1,19 @@
+Give Way
+Horn Prohibited
+Hospital
+Men at Work
+No Parking
+No Stopping
+Pedestrian Crossing
+Pedestrian Prohibited
+Road Wideness Ahead
+School Ahead
+Speed Limit -30-
+Stop
+T intersection
+U-turn prohibited
+all_motor_vehicle_prohibited
+cross road
+hump or rough road
+narrow bridge
+steep descent
